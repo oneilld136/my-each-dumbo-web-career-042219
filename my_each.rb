@@ -1,4 +1,4 @@
-toppings = ["pickles", "mushrooms", "bacon"]
+#toppings = ["pickles", "mushrooms", "bacon"]
 def my_each(array)
   counter = 0
   while counter < array.length
